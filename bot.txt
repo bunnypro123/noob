@@ -1,0 +1,5 @@
+{
+	"ip":"  samosachu.aternos.me ",
+	"port": "11451",
+	"name": "afkbot"
+}
